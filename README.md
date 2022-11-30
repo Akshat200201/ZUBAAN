@@ -1,1 +1,17 @@
 # ZUBAAN
+
+BEZUBAAN - BE KIND TO EVERY KIND
+
+"BE KIND TO ALL KINDS" - Medical services are available for humans everywhere and in any circumstance. Still, when it comes to animals, no one is there to supply them with essential medical attention. A report reveals that over one thousand stray animals (dogs, cats, monkeys, cows, etc.) are killed by accidents every four months in India. Some of them are because they do not get prompt help or their remains are abandoned on Indian streets after death.
+
+WHAT IF THEY MAY ALSO RECEIVE EMERGENCY MEDICAL ASSISTANCE? Now assume a band that alerts animals by vibration etc., that there is a danger. Sometimes an accident occurs, and the driver does not stop and flees. No one likes to aid the wounded animal since it is an uphill task, but what if they just had to tap a button, and the vet would supply instant assistance to the animal? My team proposes a platform that provides EMERGENCY SERVICE to stray and domesticated animals. When an accident involving a stray animal occurs, people notice an injured Animal. They can tap a button on our app, which will share the location of the area where the animal is, and our rescue team will immediately arrive. We know that many organizations provide this service, but what sets us apart is that we are trying to make it hassle-free so even a busy one can help, with immediate rescue by animal welfare and veterinary doctors at various stops throughout the city. Our application can also collaborate with the forest department and animal welfare department of the government to rescue wild animals. As wild animals sometimes enter cities, it would be difficult to call a helpline and share the exact location. However, suppose they use our Ani Band. In that case, they can diagnose the actual time location of the animal and the type of animal (as we will provide an option between the number of animals that could be present, as every forest has its native wild species, this option will allow the forest department to send a team fully equipped to rescue a specific animal) to the local forest department. A team will be dispatched to rescue the animal. Thus, our platform focuses primarily on animal welfare. as stated in our slogan, BE KIND TO ALL KINDS.
+
+Alternatively, our software may generate revenue by offering veterinarian services for pets. Veterinary services are not readily accessible in the majority of locales. There are also pet owners who cannot take their animals to the veterinarian for various reasons. Reserve a time window, and our doctor will visit your home and provide the necessary therapy. Taking a pet for regular grooming sessions is a cumbersome process, but what if a groomer comes to your home? Our app will include a function that allows you to schedule grooming appointments for your pet, and a groomer will come to your home to groom your pet. On our app, one can purchase affordable animal accessories and medication, as the animal medication is difficult to get in medical stores.
+
+
+Our Model Will work on two-parameter 
+To predict the Health Status of the Animal by using data on its, Temperature Heart Rate and Oxygen Level.
+To determine the safety of animals by staying away from moving cars on the road using ultrasonic sensor data. 
+
+Ml Tech Used :
+Its prediction model is based on CNN using sigmoid and Relu functions; the test accuracy is 100% which is not correct because we used a custom dataset we are trying to gather more reliable data as of now.
